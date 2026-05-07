@@ -1,12 +1,12 @@
 # blooket
  blooket
- # 🚀 Blooket Hacks 2026 — Best Cheats & Undetected Mod Menu
+ # 🚀 Blooket 2026 — Best helper & Undetected Mod Menu
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Binarylunanotice/blooket)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/Binarylunanotice/blooket/releases)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
-> **The most complete, undetected cheat suite for Blooket in 2026.**  
+> **The most complete, undetected helper suite for Blooket in 2026.**  
 > Unlock every Blook, generate unlimited tokens, auto‑answer questions instantly, and dominate any game mode — all from a clean, easy‑to‑use menu.
 
 ---
